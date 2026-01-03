@@ -7,7 +7,7 @@
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 01    |                                                             [Introduction](./readMe.md)                                                             |
 | 02    |                                               [Data Types](./02_Day_Data_types/02_day_data_types.md)                                                |
-| 03    |                             [Booleans, Operators, Date](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
+| 03    |                             [Booleans, Operators, Date](03_booleans_operators_date.md)                             |
 | 04    |                                            [Conditionals](./04_Day_Conditionals/04_day_conditionals.md)                                             |
 | 05    |                                                     [Arrays](./05_Day_Arrays/05_day_arrays.md)                                                      |
 | 06    |                                                       [Loops](./06_Day_Loops/06_day_loops.md)                                                       |
